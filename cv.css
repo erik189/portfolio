@@ -1,0 +1,72 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+    body{
+        margin: 0px;
+        padding: 0px;
+        background-image: url(imagen/tecla.jpg);
+        background-repeat: no-repeat;
+        background-size:   cover;
+    }
+       /*  #portada{
+            background: rgb(0,0,0,.4);
+            background-color: black;
+       margin: 0px;
+        padding: 0px;
+        background-image: url(imagen/bg.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    */
+    .link-cust{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 18px;
+    color:rgb(255, 255, 255);
+    
+    
+    }
+    a:hover{
+        color:white !important;
+        font-weight: bolder;
+    }
+    .text-cust{
+        font-size: 50px;
+        font-family: 'Times New Roman', Times, serif;
+        color:rgb(255, 255, 255);
+    
+    }
+    .desc-cust{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 24px;
+        color:rgb(255, 255, 255);
+
+    }
+    .cont-cust{
+        background-color: white;
+        border-radius: 5px;
+
+    }
+    .link-cust1{
+        background: rgb(0,0,0,.4);
+        border-radius: 1%;
+
+        }
+    h3{
+        color: white;
+    }
+    ul{
+        list-style: none;
+    }
+    .img-cust{
+        border-radius: 50%;
+
+    }
+    .form-cust.p{
+        background-color: white;
+        border-bottom: black;
+        border-style: solid;
+        border-width: thin;
+       
+    }
+    .foest{
+        color: white;
+    }
